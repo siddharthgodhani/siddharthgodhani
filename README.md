@@ -1,6 +1,5 @@
 # Hi, I'm Siddharth 👋
 
-Financial Crime Analyst at Standard Chartered, Bengaluru.
 I work at **Standard Chartered, Bengaluru**.
 
 ## Languages
